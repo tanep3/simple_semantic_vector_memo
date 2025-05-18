@@ -111,8 +111,8 @@ You must comply with Apache License 2.0 when redistributing or modifying this mo
 
 ## 🎥 動画デモ / Demo Video
 
-📺 近日公開予定です！  
-Coming soon!
+📺 [開発デモ動画](https://youtu.be/jf8VxGrGK4Y)  
+📺 [Demo Video](https://youtu.be/jf8VxGrGK4Y)
 
 ---
 
